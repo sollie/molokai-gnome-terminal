@@ -24,7 +24,7 @@ set_profile_colors() {
     dconf write $profile_path/foreground-color "'$(cat $fg_color_file)'"
 
     # make sure the profile is set to not use theme colors
-    dconf write $profile_path/use-theme-colors "false"
+    dconf write $profile_path/use-theme-colors "true"
 
     # set highlighted color to be different from foreground color
     dconf write $profile_path/bold-color-same-as-fg "false"
