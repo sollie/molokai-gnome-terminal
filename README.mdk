@@ -1,0 +1,24 @@
+Monokai Colorscheme for Gnome Terminal
+======================================
+
+Scripts for setting the Monokai colorscheme in Gnome Terminal.
+
+Forked from [Gnome Terminal colors Solarized](https://github.com/Anthony25/gnome-terminal-colors-solarized)
+
+Installation
+------------
+
+To be able to uninstall, I recommend that you create a new Gnome Terminalprofile, using the menu in Gnome Terminal.
+
+You need the `dconf` command (if you run a recent Gnome version). With Ubuntu,
+this can be installed by running
+
+    $ sudo apt-get install dconf-cli
+
+Then clone the repository and you can run the installation script:
+
+    $ git clone https://github.com/0xComposure/monokai-gnome-terminal
+    $ cd monokai-gnome-terminal
+    $ ./install.sh
+And just follow the instructions.
+
