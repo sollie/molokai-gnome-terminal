@@ -18,7 +18,7 @@ create_new_profile() {
   dconf write $dconfdir/default "'$profile_id'"
   dconf write $dconfdir/list "['$profile_id']"
   profile_dir="$dconfdir/:$profile_id"
-  dconf write $profile_dir/visible-name "'Default'"
+  dconf write $profile_dir/visible-name "'Monokai'"
 }
 
 get_uuid() {
