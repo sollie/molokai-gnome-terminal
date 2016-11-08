@@ -8,7 +8,7 @@ Forked from [Gnome Terminal colors Solarized](https://github.com/Anthony25/gnome
 Installation
 ------------
 
-To be able to uninstall, I recommend that you create a new Gnome Terminalprofile, using the menu in Gnome Terminal.
+To be able to uninstall, I recommend that you create a new Gnome Terminal profile, using the menu in Gnome Terminal.
 
 You need the `dconf` command (if you run a recent Gnome version). With Ubuntu,
 this can be installed by running
