@@ -10,8 +10,7 @@ Installation
 
 To be able to uninstall, I recommend that you create a new Gnome Terminal profile, using the menu in Gnome Terminal.
 
-You need the `dconf` command (if you run a recent Gnome version). With Ubuntu,
-this can be installed by running
+You need the `dconf` command (if you run a recent Gnome version). If you are using Ubuntu you can install it by running
 
     $ sudo apt-get install dconf-cli
 
