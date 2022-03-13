@@ -1,9 +1,9 @@
-Monokai Colorscheme for Gnome Terminal
+Molokai Colorscheme for Gnome Terminal
 ======================================
 
-Scripts for setting the Monokai colorscheme in Gnome Terminal.
+Scripts for setting a Molokai-ish colorscheme in Gnome Terminal.
 
-Forked from [Gnome Terminal colors Solarized](https://github.com/Anthony25/gnome-terminal-colors-solarized)
+Forked from [Monokai Colorscheme for Gnome Terminal](https://github.com/0xcomposure/monokai-gnome-terminal)
 
 Installation
 ------------
@@ -16,7 +16,7 @@ You need the `dconf` command (if you run a recent Gnome version). If you are usi
 
 Then clone the repository and you can run the installation script:
 
-    $ git clone https://github.com/0xComposure/monokai-gnome-terminal
-    $ cd monokai-gnome-terminal
+    $ git clone https://github.com/sollie/molokai-gnome-terminal
+    $ cd molokai-gnome-terminal
     $ ./install.sh
 And just follow the instructions.
